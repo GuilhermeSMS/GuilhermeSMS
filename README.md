@@ -1,4 +1,4 @@
-# GuilhermeSMS
+# Guilhermesms
 <div align="center">
 
   # Hi guys!
